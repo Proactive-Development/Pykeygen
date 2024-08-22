@@ -6,8 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='pykeygenerator',
     url='https://github.com/awesomelewis2007/Pykeygen/',
-    author='Lewis Evans',
-    author_email='awesomelewis2007@gmail.com',
+    author='Proactive-Development',
     packages=['pykeygen'],
     install_requires=[''],
     version="0.1.1",
